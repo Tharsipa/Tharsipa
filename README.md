@@ -34,8 +34,10 @@ Led a team to perform static and dynamic analysis of 30 mental health apps using
 - Co-designed and built an **online marketplace** in an 8-member team, following agile methodologies and ensuring a responsive interface.
 
 ## Work Experience
-- **QA and Development Intern**: Gained hands-on experience in test automation, working with tools like **Jenkins**, **TestRail**, and **IntelliJ**. Contributed to the **Dwella Project**, focusing on live logging and database management.
-- **Presales Engineer Intern** at Motorola Solutions: Assisted in creating and maintaining Salesforce reports, while collaborating with engineering teams to determine system requirements.
+- **Workforce Management 🗂️: QA and Development Intern at UKG**:  
+  Gained hands-on experience in test automation and workforce management systems, working with tools like **Jenkins**, **TestRail**, and **IntelliJ**.
+- **Telecommunications 📡: Presales Engineer Intern at Motorola Solutions**:  
+  Assisted in creating and maintaining Salesforce reports, while collaborating with engineering teams to determine system requirements in the telecommunications sector. Presented technical solutions to clients, ensuring clear communication of product features and system configurations.  
 
 ---
 
