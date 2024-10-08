@@ -24,15 +24,6 @@ I'm a software engineering student passionate about building impactful solutions
 - Email: tharsipa@hotmail.com
 - LinkedIn: [Tharsipa Nadarajah](https://www.linkedin.com/in/tharsipa-nadarajah-7b461b214/)
 
-## Projects
-
-### 🔐 Android App Security Analysis
-Led a team to perform static and dynamic analysis of 30 mental health apps using tools like **BurpSuite** and **MobSF**, identifying vulnerabilities and providing recommendations to improve app security.
-
-### 🌐 Full-Stack Development Projects
-- Developed a **university facilities database management system** using **SQL** and **NoSQL**, implementing front-end and back-end components.
-- Co-designed and built an **online marketplace** in an 8-member team, following agile methodologies and ensuring a responsive interface.
-
 ## Work Experience
 - **Workforce Management 🗂️: QA and Development Intern at UKG**:  
   Gained hands-on experience in test automation and workforce management systems, working with tools like **Jenkins**, **TestRail**, and **IntelliJ**.
