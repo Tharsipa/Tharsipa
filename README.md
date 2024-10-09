@@ -26,7 +26,7 @@ I'm a software engineering student passionate about building impactful solutions
 
 ## Work Experience
 - **Workforce Management 🗂️: QA and Development Intern at UKG**:  
-  Gained hands-on experience in test automation and workforce management systems, working with tools like **Jenkins**, **TestRail**, and **IntelliJ**.
+  Gained hands-on experience in test automation and workforce management systems, working with tools like **Jenkins**, **TestRail**, and **PostMan**.
 - **Telecommunications 📡: Presales Engineer Intern at Motorola Solutions**:  
   Assisted in creating and maintaining Salesforce reports, while collaborating with engineering teams to determine system requirements in the telecommunications sector. Presented technical solutions to clients, ensuring clear communication of product features and system configurations.  
 
